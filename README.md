@@ -1,0 +1,1 @@
+A Retrieval-Augmented Generation (RAG) chatbot built on an LLM. It retrieves relevant context from a DSA document and generates domain-specific answers. Currently optimized for DSA, but can be easily customized for any document or knowledge base.
